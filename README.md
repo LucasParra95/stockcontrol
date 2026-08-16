@@ -16,7 +16,7 @@ StockControl es una aplicación web que permite:
 ## ✨ Características Principales
 
 - **Gestión de Proveedores**
-  - Crear, editar y eliminar proveedores
+  - Crear proveedores
   - Validación de CUIT (11 dígitos)
   - Teléfono opcional
   - Búsqueda por razón social o CUIT
