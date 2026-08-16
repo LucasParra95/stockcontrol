@@ -1,6 +1,6 @@
 # StockControl
 
-Sistema de gestión de inventario desarrollado con **Django** para administrar productos y proveedores de forma centralizada.
+Sistema de gestión de inventario desarrollado con **Django** para administrar productos y proveedores de forma centralizada. Proyecto realizado como tarea del curso de Backend con Django de la Secretaría de Energía de Río Negro en colaboración con Alkemy.
 
 ## 📋 ¿Qué es StockControl?
 
